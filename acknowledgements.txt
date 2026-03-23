@@ -1,0 +1,11 @@
+Acknowledgements
+
+I completed this assignment independently.
+
+Libraries:
+None
+
+Generative AI:
+I used ChatGPT as a learning aid to clarify Q-learning concepts, debug code, and verify implementation details. 
+I also referred to code examples provided in the course repositories to guide my implementation. 
+All final code was reviewed and understood by me before submission.
